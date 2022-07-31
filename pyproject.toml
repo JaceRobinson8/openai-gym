@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "openai-gym"
+version = "0.1.0"
+description = ""
+authors = ["Jace Robinson"]
+
+[tool.poetry.dependencies]
+python = "^3.10"
+numpy = "^1.23.1"
+gym = "^0.25.1"
+
+[tool.poetry.dev-dependencies]
+
+[build-system]
+requires = ["poetry-core>=1.0.0"]
+build-backend = "poetry.core.masonry.api"
