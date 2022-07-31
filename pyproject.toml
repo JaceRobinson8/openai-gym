@@ -7,8 +7,9 @@ authors = ["Jace Robinson"]
 [tool.poetry.dependencies]
 python = "^3.10"
 numpy = "^1.23.1"
-gym = "^0.25.1"
+gym = {extras = ["box2d"], version = "^0.25.1"}
 black = "^22.6.0"
+wheel = "^0.37.1"
 
 [tool.poetry.dev-dependencies]
 
