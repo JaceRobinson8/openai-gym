@@ -2,18 +2,19 @@
 name = "openai-gym"
 version = "0.1.0"
 description = ""
-authors = ["Jace Robinson"]
+authors = ["Jace Robinson <jacerobinson21@gmail.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.10"
 numpy = "^1.23.1"
-gym = {extras = ["box2d"], version = "^0.25.1"}
-black = "^22.6.0"
-wheel = "^0.37.1"
-rich = "^12.5.1"
 matplotlib = "^3.5.2"
+wheel = "^0.37.1"
+gym = {extras = ["box2d"], version = "^0.25.1"}
 
 [tool.poetry.dev-dependencies]
+black = "^22.6.0"
+rich = "^12.5.1"
+flake8 = "^5.0.4"
 
 [build-system]
 requires = ["poetry-core>=1.0.0"]

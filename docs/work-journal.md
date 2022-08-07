@@ -30,10 +30,16 @@ Okay admit defeat... Time to run without docker.
 
 # Start Day 8-7-22
 
-1. Fix the environment issues
+1. Fix the environment issues (done)
 2. Get through the basic tutorial
 3. Read the paper
 
 ### Notes on env issue
 
-Okay due to video device problems, just bail on docker for this project? Just use poetry 
+Okay due to video device problems, just bail on docker for this project? Just use poetry venv instead.
+
+So using vscode without dev container... Don't think I have done that...
+
+Success. Took some setup, but got iterm, oh my zsh, poetry, and now using virtual environment in vs code instead of docker.
+
+Got the code working properly now.
