@@ -2,7 +2,7 @@
 
 Okay setup the project... Now to actually work...
 
-Okay having issues with the renderer, I think because I am in a docker container... 
+Okay having issues with the renderer, I think because I am in a docker container...
 
 Next time...
 
@@ -26,8 +26,6 @@ Recall it is not just plots. I am actually like rendering and possibly running g
 
 Okay admit defeat... Time to run without docker.
 
-
-
 # Start Day 8-7-22
 
 1. Fix the environment issues (done)
@@ -43,3 +41,13 @@ So using vscode without dev container... Don't think I have done that...
 Success. Took some setup, but got iterm, oh my zsh, poetry, and now using virtual environment in vs code instead of docker.
 
 Got the code working properly now.
+
+But cool done for now. Next time actually go through the tutorial again.
+
+# Start Day 8-11-22
+
+1. Continue the intro tutorial, everything working now!
+
+### Notes on continue tutorial
+
+Stopping at breakout section of tutorial. Getting there slowly!
